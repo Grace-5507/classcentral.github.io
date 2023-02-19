@@ -1,0 +1,12 @@
+# www.robotstxt.org/
+# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
+
+User-agent: *
+Disallow: /about/privacy-policy
+Disallow: /maestro/*
+Disallow: /course/*/visit
+Disallow: /catalog-iframe
+Disallow: /u/*
+
+Sitemap: https://www.classcentral.com/sitemap.xml
+Sitemap: https://www.classcentral.com/report/sitemap_index.xml
