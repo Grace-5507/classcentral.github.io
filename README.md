@@ -1,6 +1,7 @@
 # classcentral.github.io
 
-README
+
+
 Introduction
 Class Central is a website that provides a comprehensive directory of MOOCs (Massive Open Online Courses) offered by universities and organizations around the world.
 
